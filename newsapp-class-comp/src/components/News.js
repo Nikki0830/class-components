@@ -12,6 +12,8 @@ export default class News extends Component {
               <NewsItem
                 title="Top Headlines"
                 description="Description of the  top heading"
+                imgUrl="https://www.digitaltrends.com/wp-content/uploads/2022/05/kids-watching-tv.jpeg?p=1"
+                newsUrl = "TODO"
               />
             </div>
 
@@ -19,6 +21,7 @@ export default class News extends Component {
               <NewsItem
                 title="Top Headlines"
                 description="Description of the  top heading"
+                imgUrl="https://www.digitaltrends.com/wp-content/uploads/2022/05/kids-watching-tv.jpeg?p=1"
               />
             </div>
 
@@ -26,9 +29,9 @@ export default class News extends Component {
               <NewsItem
                 title="Top Headlines"
                 description="Description of the  top heading"
+                imgUrl="https://www.digitaltrends.com/wp-content/uploads/2022/05/kids-watching-tv.jpeg?p=1"
               />
             </div>
-
           </div>
         </div>
       </>
